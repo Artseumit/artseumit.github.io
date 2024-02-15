@@ -8,6 +8,12 @@
             "type": "firefox",
             "request": "launch",
             "name": "Open index.html",
+            "file": "D:\\Art\\artseumit.github.io\\index.html"
+        },
+        {
+            "type": "firefox",
+            "request": "launch",
+            "name": "Open index.html",
             "file": "c:\\Users\\pratik\\Downloads\\Spering Free Website Template - Free-CSS.com\\spering-html\\index.html"
         }
     ]
