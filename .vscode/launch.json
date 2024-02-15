@@ -5,6 +5,12 @@
     "version": "0.2.0",
     "configurations": [
         {
+            "type": "chrome",
+            "request": "launch",
+            "name": "Open index.html",
+            "file": "D:\\Artseum IT\\artseumit.github.io\\index.html"
+        }
+        {
             "type": "firefox",
             "request": "launch",
             "name": "Open index.html",
